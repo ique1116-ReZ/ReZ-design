@@ -2,7 +2,8 @@
 
 A Claude Code skill for creating immersive dark glassmorphism UIs with frosted glass effects and subtle inner glow borders.
 
-![Preview](preview.gif)
+![Preview 1](preview-1.png)
+![Preview 2](preview-2.png)
 
 ## Features
 
